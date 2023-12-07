@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GSON</string>
+    <string name="key_link">LinkPic</string>
+    <string name="like">like</string>
+</resources>
